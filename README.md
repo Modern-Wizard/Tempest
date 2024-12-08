@@ -2,6 +2,24 @@
 Conducted an investigation from a workstation affected by a full attack chain.
 
 ## 1.Introduction
+
+## 2.Preparation - Log Analysis
+
+## 3.Preparation - Tools and Artifacts
+
+## 4.Initial Access - Malicious Document
+
+## 5.Initial Access - Stage 2 execution
+
+## 6.Initial Access - Malicious Document Traffic
+
+## 7.Discovery - Internal Reconnaissance
+
+## 8.Privilege Escalation - Exploiting Privileges
+
+## 9.Actions on Objective - Fully-owned Machine
+
+## 1.Introduction
 This project aims to introduce the process of analysing endpoint and network logs from a compromised asset. Given the artefacts, it will aim to uncover the incident from the Tempest machine. In this scenario, we will focus on handling and analysing the captured artefacts of a compromised machine.
 
 ## 2.Preparation - Log Analysis
