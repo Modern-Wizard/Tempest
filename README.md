@@ -63,6 +63,12 @@ Eric Zimmerman has created a set of forensic tools used to analyse Windows artef
 
 To parse the provided logs, we need first to convert the EVTX logs into CSV using EvtxEcmd and then feed it into Timeline Explorer.
 
+<div>
+<img src="https://github.com/Modern-Wizard/Tempest/blob/main/ss2.png" />
+</div>
+
+
+
 
 
 
