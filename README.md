@@ -33,6 +33,10 @@ In this task, we will prepare the artefacts and introduce the tools needed for t
 ### Compare by hash
 Before conducting the investigation, one of the most important steps is to compare the artefacts by their hashes. It is a common practice to verify if the artefacts are expected as it is. 
 
+<div>
+<img src="" />
+</div>
+
 You can get the hashes of each artefact by running Powershell from the taskbar.
 
 ### Toolset
