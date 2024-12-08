@@ -34,7 +34,7 @@ In this task, we will prepare the artefacts and introduce the tools needed for t
 Before conducting the investigation, one of the most important steps is to compare the artefacts by their hashes. It is a common practice to verify if the artefacts are expected as it is. 
 
 <div>
-<img src="" />
+<img src="https://github.com/Modern-Wizard/Tempest/blob/main/ss1.png" />
 </div>
 
 You can get the hashes of each artefact by running Powershell from the taskbar.
