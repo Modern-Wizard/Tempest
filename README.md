@@ -1,7 +1,7 @@
 # Tempest
 Conducted an investigation from a workstation affected by a full attack chain.
 
-## <a href="https://github.com/Modern-Wizard/cyberdefenceframework/tree/main">1.Introduction </a>
+## <a href="https://github.com/Modern-Wizard/Introduction">1.Introduction </a>
 
 ## 2.Preparation - Log Analysis
 
