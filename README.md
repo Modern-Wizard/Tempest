@@ -3,7 +3,7 @@ Conducted an investigation from a workstation affected by a full attack chain.
 
 ## <a href="https://github.com/Modern-Wizard/Introduction">1.Introduction </a>
 
-## 2.Preparation - Log Analysis
+## <a href="https://github.com/Modern-Wizard/Preparation---Log-Analysis">2.Preparation - Log Analysis  </a>
 
 ## 3.Preparation - Tools and Artifacts
 
