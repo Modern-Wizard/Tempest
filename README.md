@@ -31,13 +31,13 @@ Event correlation can build the puzzle pieces to complete the exact scenario fro
 In this task, we will prepare the artefacts and introduce the tools needed for the investigation.
 
 ### Compare by hash
-Before conducting the investigation, one of the most important steps is to compare the artefacts by their hashes. It is a common practice to verify if the artefacts are expected as it is. 
+Before conducting the investigation, one of the most important steps is to compare the artefacts by their hashes. It is a common practice to verify if the artefacts are expected as it is.
+
+You can get the hashes of each artefact by running Powershell from the taskbar and executing the following commands:
 
 <div>
 <img src="https://github.com/Modern-Wizard/Tempest/blob/main/ss1.png" />
 </div>
-
-You can get the hashes of each artefact by running Powershell from the taskbar.
 
 ### Toolset
 The toolset needed for this task is focused on analysing Sysmon Logs, Windows Event Logs, and Packet Capture.
